@@ -2,7 +2,7 @@
   "name": "나의 감각 일기",
   "short_name": "감각 일기",
   "description": "분석 말고, 지금 느끼는 것",
-  "start_url": "/",
+  "start_url": "/inner-diary/",
   "display": "standalone",
   "background_color": "#F5F0E8",
   "theme_color": "#F5F0E8",
